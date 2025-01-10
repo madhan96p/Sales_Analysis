@@ -1,6 +1,9 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&weight=500&size=23&pause=1000&color=1FA8FF&center=true&vCenter=true&width=435&lines=📊+AAL+Sales+Analysis+Project" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=23&pause=1000&color=1FA8FF&center=true&vCenter=true&width=435&lines=📊+AAL+Sales+Analysis+Project" alt="Typing SVG" />
+  </a>
 </h1>
+
 
 
 Welcome to the **Sales Analysis Project** for **Australian Apparel Limited (AAL)**! This project aims to provide data-driven insights into AAL’s sales performance for Q4 2020, using data analysis and visualization techniques.
